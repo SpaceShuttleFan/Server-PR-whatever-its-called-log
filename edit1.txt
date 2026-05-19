@@ -1,0 +1,2 @@
+added remina RDP support allowing for testing of stuff before pushed to the actual test user
+-eduard :3
